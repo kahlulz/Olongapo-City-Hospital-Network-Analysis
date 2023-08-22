@@ -75,7 +75,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-By [Your Name]
-[date]
+__Kahlil Sebastian Ramos__
+_Science Research Specialist I_
+Department of Science and Technology - Advanced Science and Technology Institute (DOST-ASTI)
+22 August 2023
 
 Feel free to customize the content, including [Your Name] and [date], and ensure that the license, methodology, and instructions are accurate for your case study.
