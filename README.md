@@ -71,7 +71,7 @@ Contributions to this repository are welcome. If you find issues or want to enha
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Creative Commons Zero v1.0 Universal](LICENSE).
 
 ---
 
